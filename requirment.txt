@@ -1,6 +1,7 @@
-Streamlit
-Pandas 
-Matplotlib
-Plotly
-Statesmodel
-Tensorflow
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+statsmodelsS
